@@ -16,3 +16,7 @@ git checkout branch_name
 git checkout -b branch_name
 git clone repo_url
 git remote -v
+git pull
+git fetch
+git push 
+git clone
