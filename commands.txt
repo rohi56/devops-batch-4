@@ -14,3 +14,5 @@ git branch
 git branch branch_name
 git checkout branch_name
 git checkout -b branch_name
+git clone repo_url
+git remote -v
