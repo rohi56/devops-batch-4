@@ -1,0 +1,16 @@
+git init
+git status
+git add
+gir rm --cached
+git commit -m
+git log
+git restore
+git log --oneline
+git log --oneline --pretty
+git config --list
+git config --global user.name "username"
+git config --global user.email "xyz@email.com"
+git branch
+git branch branch_name
+git checkout branch_name
+git checkout -b branch_name
