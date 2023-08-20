@@ -20,3 +20,5 @@ git pull
 git fetch
 git push 
 git clone
+git remote set-url --add origin https://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@github.com/rohi56/devops-batch-4.git
+git remote set-url --delete origin https://github.com/rohi56/devops-batch-4.git
